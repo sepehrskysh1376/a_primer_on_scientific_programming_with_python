@@ -51,7 +51,7 @@ This is the edition four of the book.
 
 1.5 Interactive Computing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
 
-1.5.1 Calculating with Formulas in the Interactive Shell . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+1.5.1 Calculating with Formulas in the Interactive Shell . . . . . . . . . . . . . . . . . . . . . . . 27
 
 1.5.2 Type Conversion. . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
 
@@ -75,9 +75,9 @@ Functions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
 
 1.7.3 About Typesetting Conventions in This Book . . 39
 
-1.8 Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40
+1.8 Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40
 
-2 Basic Constructions ............................... 51
+2 Basic Constructions  . . . . . . . . . . . . . . . . . . . . . . . . .  51
 
 2.1 Loops and Lists for Tabular Data . . . . . . . . . . . . . . . . . . . 51
 
@@ -91,9 +91,7 @@ Functions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
 
 2.1.5 For Loops. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 58
 
-2.1.6 Alternative Implementations with Lists and
-
-Loops . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 60
+2.1.6 Alternative Implementations with Lists and Loops . . . . . . . . . . . . . . . . . . . . 60
 
 2.1.7 Nested Lists. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 64
 
@@ -141,7 +139,7 @@ Loops . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 
 2.5 Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 99
 
-3 Input Data and Error Handling ................... 119
+3 Input Data and Error Handling  . . . . . . . . . . . . . . . . . . .  119
 
 3.1 Asking Questions and Reading Answers . . . . . . . . . . . . . . 120
 
@@ -157,9 +155,7 @@ Loops . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 
 3.2.1 Providing Input on the Command Line . . . . . . . . 127
 
-3.2.2 A Variable Number of Command-Line
-
-Arguments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 128
+3.2.2 A Variable Number of Command-Line Arguments . . . . . . . . . . . . . . . . . . . 128
 
 3.2.3 More on Command-Line Arguments . . . . . . . . . . . 129
 
@@ -189,7 +185,7 @@ Arguments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 128
 
 3.7 Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 160
 
-4 Array Computing and Curve Plotting ............ 169
+4 Array Computing and Curve Plotting  . . . . . . . . . . . . . . . . . . .  169
 
 4.1 Vectors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 170
 
@@ -263,9 +259,7 @@ Arguments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 128
 
 4.6.3 Array Computing . . . . . . . . . . . . . . . . . . . . . . . . . . . 216
 
-4.6.4 Two-Dimensional Arrays and Functions of Two
-
-Variables . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 217
+4.6.4 Two-Dimensional Arrays and Functions of Two Variables . . . . . . . . . . . . . . . . . 217
 
 4.6.5 Matrix Objects . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 217
 
@@ -277,7 +271,7 @@ Variables . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
 
 4.8 Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 225
 
-5 Sequences and Difference Equations .............. 235
+5 Sequences and Difference Equations  . . . . . . . . . . . . . . . . . . .  235
 
 5.1 Mathematical Models Based on Difference Equations . . 236
 
@@ -317,7 +311,7 @@ Variables . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
 
 5.4 Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 260
 
-6 Files, Strings, and Dictionaries .................... 269
+6 Files, Strings, and Dictionaries  . . . . . . . . . . . . . . . . . . .  269
 
 6.1 Reading Data from File . . . . . . . . . . . . . . . . . . . . . . . . . . . . 269
 
@@ -374,7 +368,7 @@ Variables . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
 
 6.7 Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 323
 
-7 Introduction to Classes ............................ 337
+7 Introduction to Classes  . . . . . . . . . . . . . . . . . . .  337
 
 7.1 Simple Function Classes. . . . . . . . . . . . . . . . . . . . . . . . . . . . 338
 
@@ -412,9 +406,7 @@ Variables . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
 
 7.3.7 Example: Class for Polynomials. . . . . . . . . . . . . . . 365
 
-7.3.8 Arithmetic Operations and Other Special
-
-Methods . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 369
+7.3.8 Arithmetic Operations and Other Special Methods . . . . . . . . . . . . . . . . . . . . . . 369
 
 7.3.9 More on Special Methods for String Conversion. 370
 
@@ -458,7 +450,7 @@ Methods . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
 
 7.9 Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 397
 
-8 Random Numbers and Simple Games ............ 417
+8 Random Numbers and Simple Games  . . . . . . . . . . . . . . . . . . .  417
 
 8.1 Drawing Random Numbers . . . . . . . . . . . . . . . . . . . . . . . . . 418
 
@@ -494,9 +486,7 @@ Methods . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
 
 8.3.3 Example: Drawing Balls from a Hat . . . . . . . . . . . 435
 
-8.3.4 Example: Policies for Limiting Population
-
-Growth . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 437
+8.3.4 Example: Policies for Limiting Population Growth . . . . . . . . . . . . . . . . . . . . . 437
 
 8.4 Simple Games . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 440
 
@@ -536,7 +526,7 @@ Growth . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
 
 8.9 Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 463
 
-9 Object-Oriented Programming .................... 479
+9 Object-Oriented Programming  . . . . . . . . . . . . . . . . . . .  479
 
 9.1 Inheritance and Class Hierarchies . . . . . . . . . . . . . . . . . . . 479
 
@@ -564,9 +554,7 @@ Growth . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
 
 9.2.4 Alternative Implementation via Functions. . . . . . 495
 
-9.2.5 Alternative Implementation via Functional
-
-Programming . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 496
+9.2.5 Alternative Implementation via Functional Programming . . . . . . . . . . . . . . . . . . . . 496
 
 9.2.6 Alternative Implementation via a Single Class . . 497
 
@@ -620,7 +608,7 @@ Programming . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 496
 
 9.7 Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 546
 
-A Discrete Calculus .................................. 573
+A Discrete Calculus  . . . . . . . . . . . . . . . . . . .  573
 
 A.1 Discrete Functions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 573
 
@@ -668,7 +656,7 @@ A.4.7 Second-Order Derivatives . . . . . . . . . . . . . . . . . . . . 597
 
 A.5 Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 599
 
-B Differential Equations ............................. 605
+B Differential Equations  . . . . . . . . . . . . . . . . . . .  605
 
 B.1 The Simplest Case . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 606
 
@@ -684,7 +672,7 @@ B.6 A Model for the Spread of a Disease . . . . . . . . . . . . . . . . . 619
 
 B.7 Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 621
 
-C A Complete Project ............................... 625
+C A Complete Project  . . . . . . . . . . . . . . . . . . .  625
 
 C.1 About the Problem: Motion and Forces in Physics . . . . . 626
 
@@ -722,7 +710,7 @@ C.3.6 Evolution of the Error as Δt Decreases . . . . . . . . 646
 
 C.4 Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 649
 
-D Debugging ......................................... 651
+D Debugging  . . . . . . . . . . . . . . . . . . .  651
 
 D.1 Using a Debugger . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 651
 
@@ -732,7 +720,7 @@ D.2.1 A Recipe for Program Writing and Debugging . . 654
 
 D.2.2 Application of the Recipe . . . . . . . . . . . . . . . . . . . . 656
 
-E Technical Topics ................................... 669
+E Technical Topics  . . . . . . . . . . . . . . . . . . .  669
 
 E.1 Different Ways of Running Python Programs . . . . . . . . . 669
 
@@ -764,6 +752,6 @@ E.6.1 Making Time Measurements . . . . . . . . . . . . . . . . . 683
 
 E.6.2 Profiling Python Programs . . . . . . . . . . . . . . . . . . . 685
 
-Bibliography ........................................... 687
+Bibliography  . . . . . . . . . . . . . . . . . . .  687
 
-Index .................................................. 689
+Index  . . . . . . . . . . . . . . . . . . .  689
